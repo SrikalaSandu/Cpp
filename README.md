@@ -1,2 +1,2 @@
-# C-
+# C++
 All my C++ DSA LEETCODE
